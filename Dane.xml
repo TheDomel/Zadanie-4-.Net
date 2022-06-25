@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kategorie>
+	<grupa>
+		<Informacje>
+			<nazwaKategorii>Samochody osobowe</nazwaKategorii>
+		</Informacje>
+		<auto>
+			<opismarki>
+Marka: Volkswagen
+Koncern macierzysty: Niemcy
+Data powstania: 28.05.1937
+			</opismarki>
+			<nazwa>Volkswagen</nazwa>
+			<model>golf IV</model>
+			<rok>1998</rok>
+			<pojemność>1.9</pojemność>
+			<napęd>przód</napęd>
+			<drzwi>5</drzwi>
+			<kraj>Niemcy</kraj>
+			<paliwo>diesel</paliwo>
+			<moc>90KM</moc>
+		</auto>
+		<auto>
+			<opismarki>
+Marka: Ford
+Koncern macierzysty: USA
+Data powstania: 16.06.1903
+			</opismarki>
+			<nazwa>Ford</nazwa>
+			<model>Focus</model>
+			<rok>2005</rok>
+			<pojemność>1.6</pojemność>
+			<napęd>przód</napęd>
+			<drzwi>5</drzwi>
+			<kraj>Niemcy</kraj>
+			<paliwo>benzyna</paliwo>
+			<moc>101km</moc>
+		</auto>
+		<auto>
+			<opismarki>
+Marka: Audi
+Koncern macierzysty: Niemcy
+Data powstania: 16.07.1909
+			</opismarki>
+			<nazwa>Audi</nazwa>
+			<model>A4 B6</model>
+			<rok>2002</rok>
+			<pojemność>1.9</pojemność>
+			<napęd>przód</napęd>
+			<drzwi>5</drzwi>
+			<kraj>Niemcy</kraj>
+			<paliwo>diesel</paliwo>
+			<moc>110KM</moc>
+		</auto>
+		<auto>
+			<opismarki>
+Marka: Opel
+Koncern macierzysty: Niemcy
+Data powstania: 21.01.1862
+			</opismarki>
+			<nazwa>Opel</nazwa>
+			<model>Astra</model>
+			<rok>2004</rok>
+			<pojemność>1.8</pojemność>
+			<napęd>przód</napęd>
+			<drzwi>5</drzwi>
+			<kraj>Niemcy</kraj>
+			<paliwo>benzyna</paliwo>
+			<moc>125KM</moc>
+		</auto>
+	</grupa>
+	<grupa>
+		<Informacje>
+			<nazwaKategorii>Samochody ciężarowe</nazwaKategorii>
+		</Informacje>
+		<auto>
+			<opismarki>
+Marka: Scania
+Koncern macierzysty: Szwecja
+Data powstania: 1891
+			</opismarki>
+			<nazwa>Scania</nazwa>
+			<model>770S</model>
+			<rok>220</rok>
+			<pojemność>16.4</pojemność>
+			<napęd>przód</napęd>
+			<drzwi>2</drzwi>
+			<kraj>Szwecja</kraj>
+			<paliwo>diesel</paliwo>
+			<moc>770KM</moc>
+		</auto>
+		<auto>
+			<opismarki>
+Marka: Volvo
+Koncern macierzysty: Szwecja
+Data powstania: 14.04.1927
+			</opismarki>
+			<nazwa>Volvo</nazwa>
+			<model>FH13</model>
+			<rok>2007</rok>
+			<pojemność>13.0</pojemność>
+			<napęd>przód</napęd>
+			<drzwi>2</drzwi>
+			<kraj>Szwecja</kraj>
+			<paliwo>diesel</paliwo>
+			<moc>460KM</moc>
+		</auto>
+	</grupa>
+	<grupa>
+		<Informacje>
+			<nazwaKategorii>Motocykle</nazwaKategorii>
+		</Informacje>
+		<auto>
+			<opismarki>
+Marka: Kawasaki
+Koncern macierzysty: Japonia
+Data powstania: 15.10.1896
+			</opismarki>
+			<nazwa>Kawasaki</nazwa>
+			<model>ZX10R</model>
+			<rok>2006</rok>
+			<pojemność>998 cm3</pojemność>
+			<napęd>tył</napęd>
+			<drzwi>brak</drzwi>
+			<kraj>Japonia</kraj>
+			<paliwo>benzyna</paliwo>
+			<moc>210KM</moc>
+		</auto>
+		<auto>
+			<opismarki>
+Marka: Honda
+Koncern macierzysty: Japonia
+Data powstania: 24.09.1948
+			</opismarki>
+			<nazwa>Honda</nazwa>
+			<model>CBR 600 f4</model>
+			<rok>2002</rok>
+			<pojemność>600 cm3</pojemność>
+			<napęd>tył</napęd>
+			<drzwi>brak</drzwi>
+			<kraj>Japonia</kraj>
+			<paliwo>benzyna</paliwo>
+			<moc>102KM</moc>
+		</auto>
+		<auto>
+			<opismarki>
+Marka: Yamaha
+Koncern macierzysty: Japonia
+Data powstania: 1887
+			</opismarki>
+			<nazwa>Yamaha</nazwa>
+			<model>R1</model>
+			<rok>2012</rok>
+			<pojemność>1000 cm3</pojemność>
+			<napęd>tył</napęd>
+			<drzwi>brak</drzwi>
+			<kraj>Japonia</kraj>
+			<paliwo>benzyna</paliwo>
+			<moc>197KM</moc>
+		</auto>
+		<auto>
+			<opismarki>
+Marka: Suzuki
+Koncern macierzysty: Japonia
+Data powstania: 03.10.1909
+			</opismarki>
+			<nazwa>Suzuki</nazwa>
+			<model>GSX-R 600 k6</model>
+			<rok>2006</rok>
+			<pojemność>600 cm3</pojemność>
+			<napęd>tył</napęd>
+			<drzwi>brak</drzwi>
+			<kraj>Polska</kraj>
+			<paliwo>benzyna</paliwo>
+			<moc>125km</moc>
+		</auto>
+	</grupa>
+</kategorie>
